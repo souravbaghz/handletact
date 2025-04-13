@@ -58,11 +58,11 @@ pip3 install scapy colorama
 ## 🚀 Usage
 ### Run with a .pcap file
 ```bash
-sudo python3 ble_replay_legacy.py ble_traffic.pcap -d 0.5
+sudo python3 handletact.py ble_traffic.pcap -d 0.5
 ```
 ### Run with Android bt_snoop.log
 ```bash
-sudo python3 ble_replay_legacy.py bt_snoop.log
+sudo python3 handletact.py bt_snoop.log
 ```
 ---
 ## 🤖 Codename Meaning
