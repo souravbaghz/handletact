@@ -70,7 +70,7 @@ HandleTact = Handle + Tactical
 A smart, stealthy tool to manipulate BLE characteristic writes with surgical precision.
 
 ## 👤 Author
-Developed with 🔥 by @souravbaghz <br>
+Developed with 🔥 by [@souravbaghz](https://github.com/souravbaghz) <br>
 🚘 Automotive Cybersecurity · RF · Reverse Engineering · IoT Pentesting
 
 ## ⚠️ Disclaimer
