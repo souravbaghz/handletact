@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/gatttool-required-orange.svg" alt="gatttool">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/license-GNU GPL v3.0-green.svg" alt="License">
 </p>
 
 ---
